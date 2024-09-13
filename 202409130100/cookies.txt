@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.google.lk	TRUE	/	FALSE	1999999999	AEC	AVYB7coXjWW-6ebYQ-qgc8IYmXLA1yjVHci516m1Z4ZY09k1Zhrmh1AyCQ
+www.google.lk	TRUE	/	FALSE	1999999999	SameSite	lax
+.google.lk	TRUE	/	FALSE	1999999999	NID	517=Xr9228LKPYqRxnfXHjEdNqJfy857jhNHZyZZZjD1qQFloKdH1s0mo94bkQBepuyqtQ9jG1UJGsLF13frLcRNGznzbkgk7QvGnzIIJWkLNKQRTbJkQ1ypYNHXZ2nY9zIDUFllh295hvaooMo4vFVs5iQQw32iVgzLkEmAARSxXkJyMepV22PKJups1RRtabrbgo4
+
